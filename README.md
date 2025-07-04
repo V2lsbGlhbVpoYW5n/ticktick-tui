@@ -1,5 +1,8 @@
 # ticktick-tui - A terminal-based interface for TickTick
 
+> [!WARNING]
+> This project is in early development stage and does not work properly.
+
 This is a terminal-based interface for TickTick, a popular task management application. The goal of this project is to provide a simple and efficient way to manage your tasks directly from the terminal instead of using a web browser or app.
 
 Windows, macOS, and Linux are supported.
